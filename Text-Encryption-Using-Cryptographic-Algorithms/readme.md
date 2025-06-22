@@ -42,7 +42,8 @@ Enter the message to encrypt: Hello, World!
 
 Clone this repository:
 ```bash
-git clone https://github.com/your-username/Text-Encryption-Using-Cryptographic-Algorithms.git
+git clone https://github.com/Vroom-King/Cloudcredits.git
+cd Cloudcredits
 cd Text-Encryption-Using-Cryptographic-Algorithms
 ```
 Install the required library:
@@ -53,7 +54,7 @@ pip install cryptography
 Usage
 
 ```bash
-python text_encryption.py
+python Text-Encryption-Using-Cryptographic-Algorithms.py
 ```
 You will be prompted to:
 
