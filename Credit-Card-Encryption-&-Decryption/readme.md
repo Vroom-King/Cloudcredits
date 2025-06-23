@@ -46,7 +46,8 @@ Enter a 16-digit credit card number: 0123456789101112
 
 Setup Instructions
 ```bash
-git clone https://github.com/your-username/credit-card-encryption-aes.git
+git clone https://github.com/Vroom-King/Cloudcredits.git
+cd Cloudcredits
 cd credit-card-encryption-aes
 ```
 Install dependencies:
