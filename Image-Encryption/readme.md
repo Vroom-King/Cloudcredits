@@ -32,16 +32,17 @@ To develop a basic, yet secure image encryption system using AES encryption and 
 ## 🧪 Sample Usage
 
 ```bash
-$ python image_encrypt.py encrypt input.jpg
+$ python Image-Encryption.py encrypt input.jpg
 🔐 Encrypted file saved as: encrypted_image.enc
 
-$ python image_encrypt.py decrypt encrypted.img 
+$ python Image-Encryption.py decrypt encrypted.img 
 🔓 Decrypted image saved as: output.jpg
 ```
 
 Installation
 ```bash
-git clone https://github.com/your-username/Image-Encryption.git
+git clone https://github.com/Vroom-King/Cloudcredits.git
+cd Cloudcredits
 cd Image-Encryption
 ```
 
