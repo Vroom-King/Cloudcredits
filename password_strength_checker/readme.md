@@ -24,7 +24,7 @@ This project is a lightweight, browser-based tool that dynamically evaluates the
 
 ## 🧪 Live Demo
 
-> 💡 To test it locally, just open `index.html` in your browser. No backend required!
+> 💡 To test it locally, just open `password_strength_checker.html` in your browser. No backend required!
 
 ---
 
