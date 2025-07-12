@@ -52,7 +52,9 @@ cd credit-card-encryption-aes
 ```
 Install dependencies:
 ```bash
-pip install pycryptodome
+python3 -m venv .venv
+source .venv/bin/activate
+python3 -m pip install pycryptodome
 ```
 
 Run the script:
