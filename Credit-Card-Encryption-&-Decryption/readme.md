@@ -41,7 +41,7 @@ $ python credit_card_encrypt.py
 Enter a 16-digit credit card number: 0123456789101112
 🔐 Encrypted (hex): 8f2d3a...
 🔓 Decrypted: 0123456789101112
-✅ Match
+✅ Match-
 ```
 
 Setup Instructions
