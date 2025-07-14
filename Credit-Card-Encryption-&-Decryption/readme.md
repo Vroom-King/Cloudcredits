@@ -37,7 +37,7 @@ This project demonstrates how to securely encrypt and decrypt credit card number
 ## 🧪 Sample Usage
 
 ```bash
-$ python credit_card_encrypt.py
+$ python Credit-Card-Encryption-&-Decryption.py
 Enter a 16-digit credit card number: 0123456789101112
 🔐 Encrypted (hex): 8f2d3a...
 🔓 Decrypted: 0123456789101112
@@ -48,7 +48,7 @@ Setup Instructions
 ```bash
 git clone https://github.com/Vroom-King/Cloudcredits.git
 cd Cloudcredits
-cd credit-card-encryption-aes
+cd Credit-Card-Encryption-&-Decryption
 ```
 Install dependencies:
 ```bash
@@ -60,7 +60,7 @@ python3 -m pip install pycryptodome
 Run the script:
 
 ```bash
-python credit_card_encrypt.py
+python Credit-Card-Encryption-&-Decryption.py
 ```
 
 This project is for educational purposes only and does not comply with PCI-DSS or production-grade security practices.
