@@ -41,7 +41,7 @@ User-Auth-System/
 
 1️⃣ Clone the repo:
 ```bash
-git clone https://github.com/yourusername/User-Auth-System.git
+git clone https://github.com/Vroom-King/Cloudcredits.git
 cd User-Auth-System
 ```
 
