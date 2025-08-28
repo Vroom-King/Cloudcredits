@@ -46,7 +46,8 @@ cd User-Auth-System
 ```
 
 2️⃣ Create virtual environment:
-```python3 -m venv venv
+```
+python -m venv venv
 source venv/bin/activate   # Linux/Mac
 venv\Scripts\activate      # Windows
 ```
@@ -57,15 +58,16 @@ pip install -r requirements.txt
 ```
 4️⃣ Initialize the database:
 
-python
-
-from app import db, app
-with app.app_context():
-    db.create_all()
+run databse.py to recreate users.db file
+```
+python database.py
+```
 
 5️⃣ Run the server:
 
-flask run
+```
+python -m flask run --debug
+```
 
 6️⃣ Open in browser:
 
